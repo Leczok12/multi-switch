@@ -38,6 +38,9 @@ The Multi-Switch project is built on the ESPHome system and features a setup wit
 | 2EDG 3.81mm 5-pin Connector   | 1x       |
 | 2EDG 3.81mm 2-pin Connector   | 1x       |
 | Hi-Link HLK-PM03 Power Supply | 1x       |
+| SMD 0603 Green Diode          | 1x       |
+| SMD 0805 Resistor 10k ohm     | 1x       |
+| SMD 0805 Resistor 10 ohm      | 1x       |
 | PCB Board                     | 1x       |
 
 ## License
